@@ -1,0 +1,11 @@
+# vim: ft=swayconfig
+for_window {
+        [ title="^Picture-in-Picture$" ] floating enable; sticky enable, border normal 1
+        [ title="Terminal" ] floating enable, move position center, border pixel 5
+        [ shell="xwayland" ] title_format "%title [XWayland]"
+        
+        [window_role="pop-up"] floating enable
+        [window_role="bubble"] floating enable
+        [window_role="dialog"] floating enable
+        [window_type="dialog"] floating enable
+}

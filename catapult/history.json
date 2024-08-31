@@ -1,0 +1,16 @@
+{
+  "fir": {
+    "apps": {
+      "firefox.desktop": [
+        1668083692
+      ]
+    }
+  },
+  "pa": {
+    "apps": {
+      "org.kde.drkonqi.coredump.gui.desktop": [
+        1668079983
+      ]
+    }
+  }
+}

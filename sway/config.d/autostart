@@ -1,0 +1,13 @@
+# vim: ft=swayconfig
+
+output * bg ~/.config/swaybg/image.png fill
+
+exec_always pkill swayidle|| swayidle -w timeout 300 'swaylock -f -i ~/.config/swaybg/image.png' timeout 600 'systemctl suspend' before-sleep 'swaylock -f -i ~/.config/swaybg/image.png'
+
+exec_always {
+        dunst
+        foot -s
+        tmux -D
+        "killall wlsunset||true; wlsunset -T 5000"
+        "killall wl-paste||true; wl-paste --watch cliphist store"
+}

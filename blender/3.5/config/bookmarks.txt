@@ -1,0 +1,13 @@
+[Bookmarks]
+/home/srijan/Workspace/Blender/
+[Recent]
+/home/srijan/Workspace/Blender/Satisfying geonodes/Caches/
+/home/srijan/Workspace/Blender/Satisfying geonodes/
+/home/srijan/Workspace/Blender/Deadly Scifi ship/
+/home/srijan/Workspace/Blender/Blueprints/
+/home/srijan/Installables/Blender-plugins/
+/home/srijan/Installables/Blender-plugins/Hard Ops Boxcutter Ultimate Bundle v719.16.2-987.34/
+/home/srijan/Installables/Blender-plugins/Boxcutter/
+/home/srijan/Installables/Blender-plugins/MESHmachine/
+/home/srijan/Installables/Blender-plugins/Random Flow/
+/home/srijan/Workspace/Blender/Shuttle/

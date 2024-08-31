@@ -1,0 +1,14 @@
+[Bookmarks]
+/home/srijan/Workspace/
+/home/srijan/Workspace/Blender/
+[Recent]
+/home/srijan/Workspace/Blender/Moon/
+/home/srijan/Workspace/Blender/RealisticEarth/
+/home/srijan/Workspace/Blender/RealisticEarth/Images/
+/home/srijan/Workspace/Blender/RealisticEarth/Resources/
+/home/srijan/Workspace/Blender/endless-sky-assets/ships/
+/home/srijan/Workspace/Blender/Chandrayan/
+/home/srijan/Workspace/Blender/SpaceStation/
+/home/srijan/Workspace/Blender/
+/home/srijan/Workspace/Blender/SpaceStation/images/Animation/
+/home/srijan/Workspace/Blender/SpaceStation/images/

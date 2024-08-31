@@ -1,0 +1,21 @@
+# vim: ft=swayconfig
+
+bar {
+        swaybar_command waybar
+}
+
+# Gaps:
+gaps inner 5
+gaps outer 5
+smart_gaps off
+
+# Borders:
+default_floating_border pixel 5
+default_border pixel 5
+
+# Basic color configuration using the Base16 variables for windows and borders.
+# Property Name         Border  BG      Text    [Indicator [Child Border]]
+include dracula
+client.focused          $magenta $magenta $black $magenta $magenta 
+client.focused_inactive $blue $blue $black $blue $blue             
+client.unfocused        $blue $blue $black $blue $blue

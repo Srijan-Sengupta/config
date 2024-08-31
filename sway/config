@@ -1,0 +1,28 @@
+set $mod Mod4
+
+set $menu "rofi -show-icons -show drun -modes drun,calc,run,emoji,clipboard,clipboard-delete,session -sidebar-mode true -location 2"
+
+set $term foot
+set $termclient "footclient -e tmux"
+
+set $brightUp "light -A 5"
+set $brightDown "light -U 5"
+
+set $killer "rofi -show killer"
+
+set $volUp "sh ~/.config/dunst/scripts/volume.sh up"
+set $volDown "sh ~/.config/dunst/scripts/volume.sh down"
+set $volMute "sh ~/.config/dunst/scripts/volume.sh mute"
+
+set $screenshot "grim - | swappy -f -"
+set $areashot 'grim -g \"$(slurp)\" - | swappy -f -'
+
+set $lock "swaylock -i ~/.config/swaybg/image.png"
+
+include config.d/autostart
+include config.d/device
+include config.d/winrule
+include config.d/keybind
+
+include dracula
+include config.d/decor

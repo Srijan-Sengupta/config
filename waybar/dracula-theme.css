@@ -1,0 +1,25 @@
+/* vim: ft=less 
+ */
+@define-color bg @blue;
+@define-color fg @black;
+
+@define-color comment #44475A;
+
+@define-color black #21222C;
+@define-color red #FF5555;
+@define-color green #50FA7B;
+@define-color yellow #F1FA8C;
+@define-color blue #BD93F9;
+@define-color magenta #FF79C6;
+@define-color cyan #8BE9FD;
+@define-color white #f8f8f2;
+
+@define-color bright-black #6272A4;
+@define-color bright-red #FF6E6E;
+@define-color bright-green #69FF94;
+@define-color bright-yellow #FFFFA5;
+@define-color bright-blue #D6ACFF;
+@define-color bright-magenta #FF92DF;
+@define-color bright-cyan #A4FFFF;
+@define-color bright-white #ffffff;
+
